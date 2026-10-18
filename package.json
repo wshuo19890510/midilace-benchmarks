@@ -1,0 +1,19 @@
+{
+  "name": "midilace-benchmarks",
+  "version": "1.0.0",
+  "description": "Browser-based audio-to-MIDI evaluation data and measurement scripts.",
+  "type": "module",
+  "main": "scripts/note-audit.js",
+  "scripts": {
+    "audit": "node scripts/note-audit.js"
+  },
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28"
+  },
+  "license": "MIT",
+  "homepage": "https://midilace.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wshuo19890510/midilace-benchmarks.git"
+  }
+}

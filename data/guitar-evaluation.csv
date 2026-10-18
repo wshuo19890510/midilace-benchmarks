@@ -1,0 +1,2 @@
+﻿case,source,annotated_notes,notes_found,extra_events,mean_onset_error_ms,worst_onset_error_ms,mean_duration_exported_s,mean_duration_annotated_s,matched_rate,extra_rate
+acoustic_guitar_12s,GuitarSet_00_BN1-129-Eb_solo_mic.wav,45,41,27,15.7,72,0.34,0.48,0.911,0.397

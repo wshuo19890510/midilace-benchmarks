@@ -1,0 +1,3 @@
+﻿case,source,annotated_notes,notes_found,extra_events,mean_onset_error_ms,worst_onset_error_ms,matched_rate,extra_rate
+voice_hummed_4s,Vocadito_01-d-am2.wav,31,25,22,19.5,58,0.806,0.468
+voice_with_vibrato_4s,Vocadito_01-d-am2-vibrato.wav,31,21,32,22.3,81,0.677,0.604
