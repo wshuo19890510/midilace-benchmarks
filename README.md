@@ -43,6 +43,14 @@ The original audio and annotated MIDI files come from publicly available dataset
 
 The input MP3, exported MIDI, and annotated ground-truth MIDI for each case are available from the [Midilace test files page](https://midilace.com/test-files/).
 
+## Acknowledgments
+
+- [GuitarSet](https://zenodo.org/records/3371780) — Qingyang Xi et al., MARL @ NYU
+- [Vocadito](https://zenodo.org/records/5524765) — Bittner et al., Spotify / IRCAM
+- [Basic Pitch](https://github.com/spotify/basic-pitch) — Spotify Audio Intelligence Lab
+
+These datasets and models made reproducible browser-based evaluation possible.
+
 ## License
 
 MIT. The evaluation data and scripts are independent of the datasets they reference; the datasets retain their original licenses.
